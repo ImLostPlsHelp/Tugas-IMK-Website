@@ -1,0 +1,1115 @@
+.home-logged-in {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home-logged-in .div {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  height: 2768px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.home-logged-in .overlap {
+  background-image: url(../../../static/img/rectangle-168.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 844px;
+  left: 0;
+  position: absolute;
+  top: 180px;
+  width: 1920px;
+}
+
+.home-logged-in .text-wrapper {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 56px;
+  font-weight: 600;
+  left: 559px;
+  letter-spacing: 0;
+  line-height: 62px;
+  position: absolute;
+  text-align: center;
+  top: 244px;
+  width: 801px;
+}
+
+.home-logged-in .p {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 485px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 398px;
+  width: 949px;
+}
+
+.home-logged-in .overlap-group {
+  background-color: #ffffff;
+  box-shadow: 0px 4px 95px #0000001a;
+  height: 180px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.home-logged-in .line {
+  height: 1px;
+  left: 318px;
+  object-fit: cover;
+  position: absolute;
+  top: 75px;
+  width: 342px;
+}
+
+.home-logged-in .group {
+  height: 650px;
+  left: 1px;
+  position: absolute;
+  top: 2356px;
+  width: 1919px;
+}
+
+.home-logged-in .overlap-wrapper {
+  height: 412px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1923px;
+}
+
+.home-logged-in .overlap-2 {
+  background-color: #545ae8;
+  height: 412px;
+  position: relative;
+  width: 1919px;
+}
+
+.home-logged-in .overlap-3 {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 362px;
+  width: 1919px;
+}
+
+.home-logged-in .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 1477px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: right;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.home-logged-in .rectangle {
+  background-color: #ffffff;
+  height: 50px;
+  left: 0;
+  opacity: 0.3;
+  position: absolute;
+  top: 0;
+  width: 1919px;
+}
+
+.home-logged-in .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 150px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.home-logged-in .overlap-group-wrapper {
+  height: 258px;
+  left: 150px;
+  position: absolute;
+  top: 54px;
+  width: 390px;
+}
+
+.home-logged-in .overlap-group-2 {
+  height: 258px;
+  position: relative;
+  width: 392px;
+}
+
+.home-logged-in .group-2 {
+  height: 238px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 392px;
+}
+
+.home-logged-in .frame {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 160px;
+}
+
+.home-logged-in .logo {
+  height: 65px;
+  left: -3px;
+  position: relative;
+  top: -16px;
+  width: 203px;
+}
+
+.home-logged-in .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  left: 67px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+}
+
+.home-logged-in .logo-clean {
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 65px;
+}
+
+.home-logged-in .text-wrapper-5 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 58px;
+  width: 390px;
+}
+
+.home-logged-in .group-3 {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 228px;
+  width: 138px;
+}
+
+.home-logged-in .instagram {
+  background-image: url(../../../static/img/subtract.svg);
+  background-size: 100% 100%;
+  height: 28px;
+  left: 110px;
+  position: absolute;
+  top: 1px;
+  width: 28px;
+}
+
+.home-logged-in .vector {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.home-logged-in .x-twitter {
+  height: 29px;
+  left: 49px;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.home-logged-in .group-4 {
+  height: 76px;
+  left: 1209px;
+  position: absolute;
+  top: 58px;
+  width: 87px;
+}
+
+.home-logged-in .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-logged-in .text-wrapper-7 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.home-logged-in .group-5 {
+  height: 172px;
+  left: 923px;
+  position: absolute;
+  top: 58px;
+  width: 164px;
+}
+
+.home-logged-in .group-6 {
+  height: 122px;
+  left: 0;
+  position: absolute;
+  top: 50px;
+  width: 170px;
+}
+
+.home-logged-in .text-wrapper-8 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home-logged-in .text-wrapper-9 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+}
+
+.home-logged-in .text-wrapper-10 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 64px;
+  white-space: nowrap;
+}
+
+.home-logged-in .text-wrapper-11 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 96px;
+  white-space: nowrap;
+}
+
+.home-logged-in .group-7 {
+  height: 172px;
+  left: 664px;
+  position: absolute;
+  top: 58px;
+  width: 137px;
+}
+
+.home-logged-in .group-8 {
+  height: 122px;
+  left: 0;
+  position: absolute;
+  top: 50px;
+  width: 143px;
+}
+
+.home-logged-in .group-9 {
+  height: 172px;
+  left: 1418px;
+  position: absolute;
+  top: 58px;
+  width: 359px;
+}
+
+.home-logged-in .text-wrapper-12 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 34px;
+  width: 254px;
+}
+
+.home-logged-in .div-wrapper {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 122px;
+  width: 357px;
+}
+
+.home-logged-in .overlap-4 {
+  background-color: #ffffff;
+  border-radius: 75px;
+  height: 50px;
+  position: relative;
+  width: 355px;
+}
+
+.home-logged-in .text-wrapper-13 {
+  color: #a7a7a7;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+  width: 104px;
+}
+
+.home-logged-in .group-10 {
+  height: 42px;
+  left: 210px;
+  position: absolute;
+  top: 4px;
+  width: 141px;
+}
+
+.home-logged-in .overlap-group-3 {
+  background-color: #545ae8;
+  border-radius: 282px;
+  box-shadow: 0px 6px 17px #545ae840;
+  height: 42px;
+  position: relative;
+  width: 139px;
+}
+
+.home-logged-in .text-wrapper-14 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  width: 75px;
+}
+
+.home-logged-in .rectangle-2 {
+  background-color: #878bef;
+  height: 28px;
+  left: 1462px;
+  position: absolute;
+  top: 622px;
+  width: 355px;
+}
+
+.home-logged-in .group-11 {
+  height: 517px;
+  left: 0;
+  position: absolute;
+  top: 1103px;
+  width: 1938px;
+}
+
+.home-logged-in .overlap-5 {
+  background-color: #545ae8;
+  height: 517px;
+  position: relative;
+  width: 1920px;
+}
+
+.home-logged-in .group-12 {
+  height: 56px;
+  left: 868px;
+  position: absolute;
+  top: 411px;
+  width: 185px;
+}
+
+.home-logged-in .overlap-group-4 {
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 257px;
+  box-shadow: 0px 6px 17px #545ae840;
+  height: 56px;
+  position: relative;
+  width: 183px;
+}
+
+.home-logged-in .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+}
+
+.home-logged-in .text-wrapper-16 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 40px;
+  font-weight: 600;
+  left: 832px;
+  letter-spacing: 0;
+  line-height: 44px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.home-logged-in .monitor-traced-wrapper {
+  border: 0.5px solid;
+  border-color: #ffffff;
+  border-radius: 50px;
+  height: 100px;
+  left: 560px;
+  position: absolute;
+  top: 144px;
+  width: 100px;
+}
+
+.home-logged-in .monitor-traced {
+  height: 31px;
+  left: 32px;
+  position: absolute;
+  top: 35px;
+  width: 33px;
+}
+
+.home-logged-in .question-traced-wrapper {
+  border: 0.5px solid;
+  border-color: #ffffff;
+  border-radius: 50px;
+  height: 100px;
+  left: 970px;
+  position: absolute;
+  top: 144px;
+  width: 100px;
+}
+
+.home-logged-in .question-traced {
+  height: 33px;
+  left: 38px;
+  position: absolute;
+  top: 34px;
+  width: 22px;
+}
+
+.home-logged-in .notepad-traced-wrapper {
+  border: 0.5px solid;
+  border-color: #ffffff;
+  border-radius: 50px;
+  height: 100px;
+  left: 1380px;
+  position: absolute;
+  top: 144px;
+  width: 100px;
+}
+
+.home-logged-in .notepad-traced {
+  height: 33px;
+  left: 36px;
+  position: absolute;
+  top: 32px;
+  width: 26px;
+}
+
+.home-logged-in .add-user-traced-wrapper {
+  border: 0.5px solid;
+  border-color: #ffffff;
+  border-radius: 50px;
+  height: 100px;
+  left: 150px;
+  position: absolute;
+  top: 144px;
+  width: 100px;
+}
+
+.home-logged-in .add-user-traced {
+  height: 32px;
+  left: 36px;
+  position: absolute;
+  top: 34px;
+  width: 28px;
+}
+
+.home-logged-in .text-wrapper-17 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 150px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 264px;
+  white-space: nowrap;
+}
+
+.home-logged-in .text-wrapper-18 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 560px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 264px;
+  white-space: nowrap;
+}
+
+.home-logged-in .text-wrapper-19 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 970px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 264px;
+  white-space: nowrap;
+}
+
+.home-logged-in .text-wrapper-20 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 1380px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 264px;
+  white-space: nowrap;
+}
+
+.home-logged-in .text-wrapper-21 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 150px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 300px;
+  width: 393px;
+}
+
+.home-logged-in .text-wrapper-22 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 560px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 302px;
+  width: 393px;
+}
+
+.home-logged-in .text-wrapper-23 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 970px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 300px;
+  width: 393px;
+}
+
+.home-logged-in .compare-your-results {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 1380px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 300px;
+  width: 393px;
+}
+
+.home-logged-in .testimoni-alumni {
+  height: 578px;
+  left: 75px;
+  position: absolute;
+  top: 1699px;
+  width: 1771px;
+}
+
+.home-logged-in .testi-alumni {
+  height: 283px;
+  left: 894px;
+  position: absolute;
+  top: 295px;
+  width: 881px;
+}
+
+.home-logged-in .overlap-group-5 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 15px;
+  height: 283px;
+  position: relative;
+  width: 877px;
+}
+
+.home-logged-in .bambang-sugeni-ilmu-wrapper {
+  background-color: #545ae8;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 0px 0px 15px 15px;
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 193px;
+  width: 877px;
+}
+
+.home-logged-in .bambang-sugeni-ilmu {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 41px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 790px;
+}
+
+.home-logged-in .span {
+  font-weight: 700;
+}
+
+.home-logged-in .text-wrapper-24 {
+  font-size: 18px;
+}
+
+.home-logged-in .text-wrapper-25 {
+  color: #000000;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 58px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 43px;
+  width: 764px;
+}
+
+.home-logged-in .testi-alumni-2 {
+  height: 283px;
+  left: 894px;
+  position: absolute;
+  top: 0;
+  width: 881px;
+}
+
+.home-logged-in .jafri-maulana-ilmu-wrapper {
+  background-color: #545ae8;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 0px 0px 15px 15px;
+  height: 81px;
+  left: 0;
+  position: absolute;
+  top: 202px;
+  width: 877px;
+}
+
+.home-logged-in .jafri-maulana-ilmu {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 41px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+  width: 790px;
+}
+
+.home-logged-in .text-wrapper-26 {
+  color: #000000;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 43px;
+  width: 763px;
+}
+
+.home-logged-in .testi-alumni-3 {
+  height: 283px;
+  left: 0;
+  position: absolute;
+  top: 293px;
+  width: 879px;
+}
+
+.home-logged-in .overlap-6 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 15px;
+  height: 283px;
+  position: relative;
+  width: 875px;
+}
+
+.home-logged-in .materi-yang {
+  color: #000000;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 47px;
+  width: 752px;
+}
+
+.home-logged-in .salma-nur-prima-wrapper {
+  background-color: #545ae8;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 0px 0px 15px 15px;
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 195px;
+  width: 875px;
+}
+
+.home-logged-in .salma-nur-prima {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 20px;
+  width: 789px;
+}
+
+.home-logged-in .testi-alumni-4 {
+  height: 283px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 879px;
+}
+
+.home-logged-in .overlap-7 {
+  height: 283px;
+  position: relative;
+  width: 875px;
+}
+
+.home-logged-in .img {
+  height: 281px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 875px;
+}
+
+.home-logged-in .user-profile {
+  background-color: #545ae8;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 0px 0px 15px 15px;
+  height: 81px;
+  left: 0;
+  position: absolute;
+  top: 202px;
+  width: 875px;
+}
+
+.home-logged-in .ahmad-sutego-STEI {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 218px;
+  width: 789px;
+}
+
+.home-logged-in .materi-pembelajaran {
+  color: #000000;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+  width: 735px;
+}
+
+.home-logged-in .rectangle-3 {
+  background-color: #ffffff;
+  height: 183px;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 1920px;
+}
+
+.home-logged-in .header {
+  background-color: transparent;
+  height: 91px;
+  left: 81px;
+  position: fixed;
+  top: 30px;
+  width: 1807px;
+}
+
+.home-logged-in .sign-out {
+  height: 48px;
+  left: 1665px;
+  position: absolute;
+  top: 43px;
+  width: 134px;
+}
+
+.home-logged-in .overlap-8 {
+  height: 48px;
+  position: relative;
+}
+
+.home-logged-in .UTBK {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+  width: 89px;
+}
+
+.home-logged-in .group-13 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 134px;
+}
+
+.home-logged-in .overlap-group-6 {
+  height: 48px;
+  position: relative;
+  width: 132px;
+}
+
+.home-logged-in .rectangle-4 {
+  background-color: #545ae8;
+  border-radius: 257px;
+  height: 48px;
+  left: 6px;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.home-logged-in .text-wrapper-27 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 132px;
+}
+
+.home-logged-in .text-wrapper-28 {
+  color: #000000;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 36px;
+  left: 502px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  width: 71px;
+}
+
+.home-logged-in .text-wrapper-29 {
+  color: #545ae8;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 146px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 23px;
+  width: 61px;
+}
+
+.home-logged-in .overlap-9 {
+  height: 45px;
+  left: 207px;
+  position: absolute;
+  top: 11px;
+  width: 205px;
+}
+
+.home-logged-in .text-wrapper-30 {
+  color: #000000;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 45px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 115px;
+}
+
+.home-logged-in .text-wrapper-31 {
+  color: #000000;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 34px;
+  left: 111px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  width: 94px;
+}
+
+.home-logged-in .text-wrapper-32 {
+  color: #000000;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  height: 40px;
+  left: 419px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  width: 76px;
+}
+
+.home-logged-in .logo-2 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 134px;
+}
+
+.home-logged-in .study-smart {
+  color: #000000;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  width: 62px;
+}

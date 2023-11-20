@@ -1,0 +1,1028 @@
+.home {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home .div {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  height: 3240px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.home .overlap {
+  background-image: url(../../../static/img/rectangle-168.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 844px;
+  left: 0;
+  position: absolute;
+  top: 180px;
+  width: 1920px;
+}
+
+.home .text-wrapper {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 56px;
+  font-weight: 600;
+  left: 559px;
+  letter-spacing: 0;
+  line-height: 62px;
+  position: absolute;
+  text-align: center;
+  top: 244px;
+  width: 801px;
+}
+
+.home .p {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 485px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  top: 398px;
+  width: 949px;
+}
+
+.home .overlap-group {
+  background-color: #ffffff;
+  box-shadow: 0px 4px 95px #0000001a;
+  height: 180px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.home .frame {
+  height: 38px;
+  left: 150px;
+  position: absolute;
+  top: 30px;
+  width: 120px;
+}
+
+.home .logo {
+  height: 67px;
+  left: -31px;
+  position: relative;
+  top: -5px;
+  width: 134px;
+}
+
+.home .study-smart {
+  color: #000000;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  width: 62px;
+}
+
+.home .logo-clean {
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 65px;
+}
+
+.home .text-wrapper-2 {
+  color: #545ae8;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 284px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 41px;
+}
+
+.home .text-wrapper-3 {
+  color: #000000;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 380px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 41px;
+}
+
+.home .group {
+  height: 48px;
+  left: 1625px;
+  position: absolute;
+  top: 105px;
+  width: 182px;
+}
+
+.home .div-wrapper {
+  background-color: #545ae8;
+  border-radius: 257px;
+  height: 48px;
+  position: relative;
+  width: 180px;
+}
+
+.home .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 13px;
+  width: 132px;
+}
+
+.home .search-bar {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 45px;
+  height: 48px;
+  left: 1091px;
+  position: absolute;
+  top: 108px;
+  width: 500px;
+}
+
+.home .icon-search-outline {
+  height: 42px;
+  left: 8px;
+  position: absolute;
+  top: 2px;
+  width: 45px;
+}
+
+.home .overlap-wrapper {
+  height: 412px;
+  left: 1px;
+  position: absolute;
+  top: 2828px;
+  width: 1919px;
+}
+
+.home .overlap-2 {
+  height: 412px;
+  position: relative;
+  width: 1923px;
+}
+
+.home .overlap-group-wrapper {
+  height: 412px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1923px;
+}
+
+.home .overlap-3 {
+  background-color: #545ae8;
+  height: 412px;
+  position: relative;
+  width: 1919px;
+}
+
+.home .overlap-4 {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 362px;
+  width: 1919px;
+}
+
+.home .text-wrapper-5 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 1477px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  text-align: right;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.home .rectangle {
+  background-color: #ffffff;
+  height: 50px;
+  left: 0;
+  opacity: 0.3;
+  position: absolute;
+  top: 0;
+  width: 1919px;
+}
+
+.home .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 150px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.home .group-2 {
+  height: 258px;
+  left: 150px;
+  position: absolute;
+  top: 54px;
+  width: 390px;
+}
+
+.home .overlap-group-2 {
+  height: 258px;
+  position: relative;
+  width: 392px;
+}
+
+.home .group-3 {
+  height: 238px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 392px;
+}
+
+.home .logo-wrapper {
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 160px;
+}
+
+.home .logo-2 {
+  height: 65px;
+  left: -3px;
+  position: relative;
+  top: -16px;
+  width: 203px;
+}
+
+.home .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  left: 67px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+}
+
+.home .text-wrapper-8 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 58px;
+  width: 390px;
+}
+
+.home .group-4 {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 228px;
+  width: 138px;
+}
+
+.home .instagram {
+  background-image: url(../../../static/img/subtract.svg);
+  background-size: 100% 100%;
+  height: 28px;
+  left: 110px;
+  position: absolute;
+  top: 1px;
+  width: 28px;
+}
+
+.home .vector {
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.home .x-twitter {
+  height: 29px;
+  left: 49px;
+  position: absolute;
+  top: 0;
+  width: 28px;
+}
+
+.home .group-5 {
+  height: 76px;
+  left: 1209px;
+  position: absolute;
+  top: 58px;
+  width: 87px;
+}
+
+.home .text-wrapper-9 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-10 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.home .group-6 {
+  height: 172px;
+  left: 923px;
+  position: absolute;
+  top: 58px;
+  width: 164px;
+}
+
+.home .group-7 {
+  height: 122px;
+  left: 0;
+  position: absolute;
+  top: 50px;
+  width: 170px;
+}
+
+.home .text-wrapper-11 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-12 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 32px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-13 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 64px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-14 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 96px;
+  white-space: nowrap;
+}
+
+.home .group-8 {
+  height: 172px;
+  left: 664px;
+  position: absolute;
+  top: 58px;
+  width: 137px;
+}
+
+.home .group-9 {
+  height: 122px;
+  left: 0;
+  position: absolute;
+  top: 50px;
+  width: 143px;
+}
+
+.home .group-10 {
+  height: 172px;
+  left: 1418px;
+  position: absolute;
+  top: 58px;
+  width: 359px;
+}
+
+.home .text-wrapper-15 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 34px;
+  width: 254px;
+}
+
+.home .group-11 {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 122px;
+  width: 357px;
+}
+
+.home .overlap-5 {
+  background-color: #ffffff;
+  border-radius: 75px;
+  height: 50px;
+  position: relative;
+  width: 355px;
+}
+
+.home .text-wrapper-16 {
+  color: #a7a7a7;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+  width: 104px;
+}
+
+.home .group-12 {
+  height: 42px;
+  left: 210px;
+  position: absolute;
+  top: 4px;
+  width: 141px;
+}
+
+.home .overlap-group-3 {
+  background-color: #545ae8;
+  border-radius: 282px;
+  box-shadow: 0px 6px 17px #545ae840;
+  height: 42px;
+  position: relative;
+  width: 139px;
+}
+
+.home .text-wrapper-17 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  width: 75px;
+}
+
+.home .rectangle-2 {
+  background-color: #878bef;
+  height: 28px;
+  left: 1462px;
+  position: absolute;
+  top: 376px;
+  width: 355px;
+}
+
+.home .paket-belajar {
+  height: 380px;
+  left: 19px;
+  position: absolute;
+  top: 1222px;
+  width: 1880px;
+}
+
+.home .group-13 {
+  height: 517px;
+  left: -2px;
+  position: absolute;
+  top: 1651px;
+  width: 1938px;
+}
+
+.home .overlap-6 {
+  background-color: #545ae8;
+  height: 517px;
+  position: relative;
+  width: 1920px;
+}
+
+.home .group-14 {
+  height: 56px;
+  left: 868px;
+  position: absolute;
+  top: 411px;
+  width: 185px;
+}
+
+.home .overlap-group-4 {
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 257px;
+  box-shadow: 0px 6px 17px #545ae840;
+  height: 56px;
+  position: relative;
+  width: 183px;
+}
+
+.home .text-wrapper-18 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 15px;
+}
+
+.home .text-wrapper-19 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 40px;
+  font-weight: 600;
+  left: 832px;
+  letter-spacing: 0;
+  line-height: 44px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.home .img {
+  height: 100px;
+  left: 560px;
+  position: absolute;
+  top: 144px;
+  width: 100px;
+}
+
+.home .question-traced-wrapper {
+  border: 0.5px solid;
+  border-color: #ffffff;
+  border-radius: 50px;
+  height: 100px;
+  left: 970px;
+  position: absolute;
+  top: 144px;
+  width: 100px;
+}
+
+.home .question-traced {
+  height: 33px;
+  left: 38px;
+  position: absolute;
+  top: 34px;
+  width: 22px;
+}
+
+.home .notepad-traced-wrapper {
+  border: 0.5px solid;
+  border-color: #ffffff;
+  border-radius: 50px;
+  height: 100px;
+  left: 1380px;
+  position: absolute;
+  top: 144px;
+  width: 100px;
+}
+
+.home .notepad-traced {
+  height: 33px;
+  left: 36px;
+  position: absolute;
+  top: 32px;
+  width: 26px;
+}
+
+.home .group-15 {
+  height: 100px;
+  left: 150px;
+  position: absolute;
+  top: 144px;
+  width: 100px;
+}
+
+.home .text-wrapper-20 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 150px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 264px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-21 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 560px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 264px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-22 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 970px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 264px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-23 {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  left: 1380px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 264px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-24 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 150px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 300px;
+  width: 393px;
+}
+
+.home .text-wrapper-25 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 560px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 302px;
+  width: 393px;
+}
+
+.home .text-wrapper-26 {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 970px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 300px;
+  width: 393px;
+}
+
+.home .compare-your-results {
+  color: #d9d9d9;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 1380px;
+  letter-spacing: 0;
+  line-height: 26px;
+  position: absolute;
+  top: 300px;
+  width: 393px;
+}
+
+.home .testimoni-alumni {
+  height: 576px;
+  left: 73px;
+  position: absolute;
+  top: 2214px;
+  width: 1771px;
+}
+
+.home .testi-alumni {
+  height: 283px;
+  left: 894px;
+  position: absolute;
+  top: 293px;
+  width: 881px;
+}
+
+.home .overlap-group-5 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 15px;
+  height: 283px;
+  position: relative;
+  width: 877px;
+}
+
+.home .bambang-sugeni-ilmu-wrapper {
+  background-color: #545ae8;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 0px 0px 15px 15px;
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 193px;
+  width: 877px;
+}
+
+.home .bambang-sugeni-ilmu {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 41px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 790px;
+}
+
+.home .span {
+  font-weight: 700;
+}
+
+.home .text-wrapper-27 {
+  font-size: 18px;
+}
+
+.home .text-wrapper-28 {
+  color: #000000;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 58px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 43px;
+  width: 764px;
+}
+
+.home .testi-alumni-2 {
+  height: 283px;
+  left: 894px;
+  position: absolute;
+  top: 0;
+  width: 881px;
+}
+
+.home .jafri-maulana-ilmu-wrapper {
+  background-color: #545ae8;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 0px 0px 15px 15px;
+  height: 81px;
+  left: 0;
+  position: absolute;
+  top: 202px;
+  width: 877px;
+}
+
+.home .jafri-maulana-ilmu {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 41px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+  width: 790px;
+}
+
+.home .text-wrapper-29 {
+  color: #000000;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 43px;
+  width: 763px;
+}
+
+.home .testi-alumni-3 {
+  height: 283px;
+  left: 0;
+  position: absolute;
+  top: 293px;
+  width: 879px;
+}
+
+.home .overlap-7 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 15px;
+  height: 283px;
+  position: relative;
+  width: 875px;
+}
+
+.home .materi-yang {
+  color: #000000;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 55px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 47px;
+  width: 752px;
+}
+
+.home .salma-nur-prima-wrapper {
+  background-color: #545ae8;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 0px 0px 15px 15px;
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 195px;
+  width: 875px;
+}
+
+.home .salma-nur-prima {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 38px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 20px;
+  width: 789px;
+}
+
+.home .testi-alumni-4 {
+  height: 283px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 879px;
+}
+
+.home .overlap-8 {
+  height: 283px;
+  position: relative;
+  width: 875px;
+}
+
+.home .rectangle-3 {
+  height: 281px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 875px;
+}
+
+.home .user-profile {
+  background-color: #545ae8;
+  border: 1px solid;
+  border-color: #000000;
+  border-radius: 0px 0px 15px 15px;
+  height: 81px;
+  left: 0;
+  position: absolute;
+  top: 202px;
+  width: 875px;
+}
+
+.home .ahmad-sutego-STEI {
+  color: #ffffff;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 218px;
+  width: 789px;
+}
+
+.home .materi-pembelajaran {
+  color: #000000;
+  font-family: "Libre Franklin", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 50px;
+  width: 735px;
+}
+
+.home .text-wrapper-30 {
+  color: #3c3c3c;
+  font-family: "Libre Caslon Text", Helvetica;
+  font-size: 60px;
+  font-weight: 500;
+  left: 224px;
+  letter-spacing: 0;
+  line-height: 62px;
+  position: absolute;
+  text-align: center;
+  top: 1094px;
+  width: 1472px;
+}
